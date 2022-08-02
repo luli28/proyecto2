@@ -23,11 +23,11 @@
               "src/assets"
             ],
             "styles": [
-              "proyecto2/node_modules/bootstrap/dist/css/bootstrap.css",
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": [
-              "proyecto2/node_modules/bootstrap/dist/js/bootstrap.js"
+              "node_modules/bootstrap/dist/js/bootstrap.js"
         
             ]
           },
